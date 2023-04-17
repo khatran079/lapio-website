@@ -1,1 +1,8 @@
-p { background-color: red;}
+h1 { color: blue;}
+h2 {color: brown;}
+h3 {color: purple;}
+/* * {color:orange} */
+/* p { background-color: red;} */
+.red {color: red;}
+.yellow {color:burlywood}
+ul,p {color: rgb(255, 230, 0)}
