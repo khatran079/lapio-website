@@ -41,3 +41,8 @@
     line-height: 60px;
     border-color: yellow;
 }
+
+body {
+    margin: 0 auto;
+    max-width: 50em;
+  }
