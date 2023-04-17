@@ -4,6 +4,13 @@
     background-color: red;
     /* padding-top: 5px; */
     position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    border: 10px solid;
+    border-color: green;   
+    line-height: 60px;
+    
+    ;
     
 }
   
@@ -14,6 +21,11 @@
     left: 250px;
     top:15px;
     position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    border: 10px solid;
+    line-height: 60px;
+    border-color: red;
 }
   
 .third-box-container {
@@ -23,4 +35,9 @@
     left: 500px;
     top: 15px; 
     position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    border: 10px solid;
+    line-height: 60px;
+    border-color: yellow;
 }
