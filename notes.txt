@@ -1,2 +1,6 @@
 This is note to test fetch this file from local server.
+<<<<<<< HEAD
 this is the second line to test stash function.
+=======
+this is my second note
+>>>>>>> d36055abf96d4355af0226ce73f660461ba67552
