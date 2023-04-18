@@ -1,5 +1,5 @@
 <<<<<<< Updated upstream
-This is note to test fetch this file from local server and testing with stash
+
 =======
 This is note to test fetch this file from local server.
 this is my second line.
