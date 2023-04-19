@@ -1,2 +1,6 @@
 456
+<<<<<<< HEAD
 Greetings from my computer
+=======
+Greating from Github
+>>>>>>> d8fbddcecd49abfbf1e7af3b74012c13f4162857
